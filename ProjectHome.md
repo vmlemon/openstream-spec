@@ -1,0 +1,1 @@
+OpenStream is a set of extensions to the Atom Activity Extensions specification to add support for a number of new features that were popularised by numerous popular content aggregation/lifestreaming services.
